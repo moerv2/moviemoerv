@@ -8,9 +8,9 @@
 "F7 = Deathnotice Default"
 "F8 = Deathnotice Only"
 
-"F9 = Campath Clear"
-"F10 = Campath Enable"
-"F11 = Input End"
-"F12 = Input Camera"
+F9 = Campath Clear
+F10 = Campath Enable
+F11 = Input End
+F12 = Input Camera
 
 "Mouse 5 = Campath Add"
