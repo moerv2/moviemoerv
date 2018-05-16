@@ -14,4 +14,10 @@ F11 = Input End
 F12 = Input Camera
 
 Mouse 5 = Campath Add
+
+mirv_deathmsg debug 1
+mirv_deathmsg block !6 *
+mirv_deathmsg highlightId 6
+
+
 ```
